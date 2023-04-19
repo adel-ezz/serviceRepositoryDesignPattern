@@ -5,9 +5,11 @@
 
 ## Steps And Information
 #Information
+
 PHP v 8.1
 
 Mysql
+
 Laravel 10.0
 
 Laravel Passport
@@ -19,6 +21,7 @@ smook unitTesting (testing for requests)
 MVC design pattern & service-repository desing pattern
 
 #Steps
+
 After Clone Project from github
 
 -consider you installed already php 8 + mysql + composer
